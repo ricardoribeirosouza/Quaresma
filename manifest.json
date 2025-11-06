@@ -1,0 +1,16 @@
+{
+  "short_name": "Daily Video",
+  "name": "Daily Video Advent",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1f2937",
+  "background_color": "#111827",
+  "description": "An application that unlocks and plays one new video each day for 40 days."
+}
